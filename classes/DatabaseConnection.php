@@ -12,7 +12,7 @@ class DatabaseConnection
 
     public function __construct()
     {
-        $pw = "pCC3JJLplyN85vzv";
+        $pw = "#"; // Password Hidden
         $username = "apickard01";
         $db = "apickard01";
         $host = "apickard01.lampt.eeecs.qub.ac.uk";
